@@ -3,9 +3,14 @@ layout: default
 title: "Home"
 ---
 
+[Home](/) · <!--[Research](/research) · [Projects](/projects) · -->[cLSBP](/clsbp)
+
+<img src="./assets/img/profile.jpg" alt="Profile photo"
+     style="width: 160px; float: right; margin-left: 20px; border-radius: 8px;">
+
 # Yongseok Hur
 
-I am a research assistant in the **Research institute of mathematics, Seoul National University**, and a Statistics PhD applicant.
+I am a research assistant in the **Research institute of mathematics, Seoul National University**, and a Statistics PhD applicant for 2026 Fall admission cycle.
 
 ---
 
@@ -21,7 +26,8 @@ I am a research assistant in the **Research institute of mathematics, Seoul Nati
 
 - **Hur, Y**., [Jung, J.](https://joonhyuk.com/), [Lee, J.](https://sites.google.com/ucsc.edu/juheelee/home)
   “A General Bayesian Nonparametric Approach for Estimating Population-Level and Conditional Causal Effects.”  
-  [*Preprint*](https://arxiv.org/abs/2511.23085) <!--submitted to *Observational Studies*.--> 
+  [*Preprint*](https://arxiv.org/abs/2511.23085) <!--submitted to *Observational Studies*.-->
+  [![cLSBP project overview](./assets/img/Figure_6a.pdf)](./clsbp)
 
 - Lee, D., **Hur, Y.**, Kang, B., Park, G.**  
   “Statistical analysis of employment status one year post-unemployment.”  
